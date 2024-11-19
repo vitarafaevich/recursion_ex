@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d0f49d6-bb31-4e7d-a8e4-727841e30ce5" name="Changes" comment="1 to 15">
-      <change afterPath="$PROJECT_DIR$/16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/18.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/14.py" beforeDir="false" afterPath="$PROJECT_DIR$/14.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/15.py" beforeDir="false" afterPath="$PROJECT_DIR$/15.py" afterDir="false" />
+    <list default="true" id="6d0f49d6-bb31-4e7d-a8e4-727841e30ce5" name="Changes" comment="1 to 15 + 18">
+      <change afterPath="$PROJECT_DIR$/19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +51,7 @@
     "Python.12.executor": "Run",
     "Python.13.executor": "Run",
     "Python.15.executor": "Run",
+    "Python.18.executor": "Run",
     "Python.2.executor": "Run",
     "Python.3.executor": "Run",
     "Python.4.executor": "Run",
@@ -69,29 +66,7 @@
     "settings.editor.selected.configurable": "advanced.settings"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.15">
-    <configuration name="10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="recursion_ex" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.18">
     <configuration name="12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="recursion_ex" />
       <option name="ENV_FILES" value="" />
@@ -158,6 +133,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="18" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="recursion_ex" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/18.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="try" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="recursion_ex" />
       <option name="ENV_FILES" value="" />
@@ -182,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.18" />
         <item itemvalue="Python.15" />
         <item itemvalue="Python.13" />
         <item itemvalue="Python.try" />
         <item itemvalue="Python.12" />
-        <item itemvalue="Python.10" />
       </list>
     </recent_temporary>
   </component>
@@ -270,7 +267,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732043093337</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="1 to 15 + 18">
+      <option name="closed" value="true" />
+      <created>1732043866102</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1732043866102</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -289,6 +294,7 @@
     <MESSAGE value="1 to 11" />
     <MESSAGE value="1 to 13" />
     <MESSAGE value="1 to 15" />
-    <option name="LAST_COMMIT_MESSAGE" value="1 to 15" />
+    <MESSAGE value="1 to 15 + 18" />
+    <option name="LAST_COMMIT_MESSAGE" value="1 to 15 + 18" />
   </component>
 </project>
