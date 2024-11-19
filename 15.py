@@ -1,7 +1,7 @@
 def ten_to_bin(num):
     if num == 0:
         return []
-    if num % 2 == 0:
+    if num%2 == 0:
         return [0] + ten_to_bin(num/2)
     else:
         return [1] + ten_to_bin(num//2)
