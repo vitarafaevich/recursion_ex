@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d0f49d6-bb31-4e7d-a8e4-727841e30ce5" name="Changes" comment="1 to 15 + 18">
-      <change afterPath="$PROJECT_DIR$/19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20.py" afterDir="false" />
+    <list default="true" id="6d0f49d6-bb31-4e7d-a8e4-727841e30ce5" name="Changes" comment="1 to 15 + 18 - 19">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17.py" beforeDir="false" afterPath="$PROJECT_DIR$/17.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -275,7 +275,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732043866102</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="1 to 15 + 18 - 19">
+      <option name="closed" value="true" />
+      <created>1732043957392</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1732043957392</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -295,6 +303,7 @@
     <MESSAGE value="1 to 13" />
     <MESSAGE value="1 to 15" />
     <MESSAGE value="1 to 15 + 18" />
-    <option name="LAST_COMMIT_MESSAGE" value="1 to 15 + 18" />
+    <MESSAGE value="1 to 15 + 18 - 19" />
+    <option name="LAST_COMMIT_MESSAGE" value="1 to 15 + 18 - 19" />
   </component>
 </project>
